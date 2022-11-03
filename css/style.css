@@ -26,3 +26,56 @@ a {
   flex-direction: column;
   align-items: center;
 }
+
+@media (max-width: 960px) {
+  .card-category {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .card-category {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .card-category {
+    width: 300px;
+  }
+}
+
+@media (max-width: 960px) {
+  .card-product {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .card-product {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .card-product {
+    width: 300px;
+  }
+}
+@media (max-width: 960px) {
+  .card-trip {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .card-trip {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .card-trip {
+    width: 300px;
+  }
+}
